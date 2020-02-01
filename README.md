@@ -6,6 +6,9 @@ The entire code integration is explained in my medium article https://medium.com
 
 ### Usage:
 
+##### install requirements
+`pip install -r requirements.txt`
+
 ##### cd into the main directory
 `cd chat_app`
 
@@ -15,5 +18,5 @@ The entire code integration is explained in my medium article https://medium.com
 ##### run the main chat app
 `python Flask-SocketIO-Chat/chat.py`
 
-##### launch the browser and go to the link `localhost:5000` to start the chat app
+###### launch the browser and go to the link `localhost:5000` to start the chat app
 `
