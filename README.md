@@ -9,9 +9,6 @@ The entire code integration is explained in my medium article https://medium.com
 ##### install requirements
 `pip install -r requirements.txt`
 
-##### cd into the main directory
-`cd chat_app`
-
 ##### run the abuse detection flask app
 `python app.py`
 
@@ -19,4 +16,3 @@ The entire code integration is explained in my medium article https://medium.com
 `python Flask-SocketIO-Chat/chat.py`
 
 ###### launch the browser and go to the link `localhost:5000` to start the chat app
-`
